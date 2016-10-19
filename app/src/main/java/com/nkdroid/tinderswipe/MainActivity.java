@@ -51,12 +51,12 @@ public class MainActivity extends AppCompatActivity implements FlingCardListener
         //  al.add(new Data("http://switchboard.nrdc.org/blogs/dlashof/mission_impossible_4-1.jpg", "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."));
         //  al.add(new Data("http://i.ytimg.com/vi/PnxsTxV8y3g/maxresdefault.jpg", "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."));
         al.add(new Data(R.drawable.img1, "I'm so lucky to have a special friend like you may all your B'day hopes and wishes come true!"));
-        al.add(new Data(R.drawable.img2, "Bithdays are come and go, Everyone grows up a year every year, and gifts are opened and thrown. But i want that my birthday wishes stay with you FOREVER."));
+        al.add(new Data(R.drawable.img2, "Happy birthday my Crazy Wonderful Hilarious and Truly Amazing FRIEND"));
         al.add(new Data(R.drawable.img3, "You're the best person, that i h've ever met!!!"));
         al.add(new Data(R.drawable.img8, "Some things get better with age. You're one of them!"));
-        al.add(new Data(R.drawable.img5, "I won't promise to be your friend forever, because i wont live that long but let me be your friend as long as i live."));
+        al.add(new Data(R.drawable.img5, "Happy Birthday to one of the few person whose b'day i can remember without a fb reminder."));
         al.add(new Data(R.drawable.img6, "Count your life by smiles not TEARS, count your age by friends not YEARS."));
-        al.add(new Data(R.drawable.img7, "Happy moments, Happy thoughts, Happy dreams, Happy feelings, Happy Birthday."));
+        al.add(new Data(R.drawable.img7, "Happy moments, Happy thoughts, Happy dreams, Happy feelings, Happy Birthday!"));
 
 
         myAppAdapter = new MyAppAdapter(al, MainActivity.this);
